@@ -1,0 +1,1 @@
+# Freshservice Agent for MacOS
