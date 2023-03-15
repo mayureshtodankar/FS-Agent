@@ -1,4 +1,4 @@
-# Freshservice Agent for MacOS.
+# Freshservice Agent.
 
 The Freshservice Discovery Agent can be installed on all your Windows, Mac and Linux machines. The Discovery Agent then collects the machines' hardware and software information and updates Freshservice regularly without needing further intervention from the respective user(s).
 
