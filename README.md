@@ -1,8 +1,6 @@
 # Freshservice Agent.
 
-The Freshservice Discovery Agent can be installed on all your Windows, Mac and Linux machines. The Discovery Agent then collects the machines' hardware and software information and updates Freshservice regularly without needing further intervention from the respective user(s).
-
+WARNING: The Freshservice Discovery Agent is authorized for installation solely on Windows, Mac, and Linux systems. Once installed, the Discovery Agent autonomously gathers hardware and software data from these machines, updating Freshservice without further user action. Access and use of the Discovery Agent are subject to the exclusive ownership and copyright of Freshworks Inc. The Curve Tomorrow and WeGuide IT Team maintains this repository strictly for deployment through the MDM Platform. Any unauthorized use, editing, or modification of this software is strictly prohibited and may result in legal action. For more information, refer to the provided link.
 Learn more about the Discovery Agent on below link.
-https://support.freshservice.com/en/support/solutions/articles/200393
 
-License: All License and Copyright belongs to Freshworks Inc. This repository is only maintained by Curve Tomorrow IT Team for deployment via the MDM Platform. Please do not use it for any other purpose. Editing or modifying is strictly prohibited. 
+https://support.freshservice.com/en/support/solutions/articles/200393
